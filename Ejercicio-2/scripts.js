@@ -5,6 +5,7 @@
     */
 
      /*mi solucion-2*/
+    /* Antes de ver el vide*/
     
 
 let triángulo = '';
@@ -24,6 +25,7 @@ let círculo = '';
 console.log(`El área círculo mide ${Math.PI * Math.pow(b,2)}`);
 
       /*solucion del profe*/
+      /*explicacion con video*/
 
 let figure = prompt('Introduce la figura geómerica de la que quieres calcular el área: triangle, rectangle or circle')
 

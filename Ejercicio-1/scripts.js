@@ -4,6 +4,7 @@
     Reliza el ejercicio con prompt(mensaje) y has uso de los template strings.
     */
         /*mi solucion-1*/
+        /* Antes de ver el vide*/
 let nombre = '';
 
 let edad = 39;
@@ -21,6 +22,7 @@ console.log(`Hola ${nombre}, tienes ${eda} años y el año que viene tendrás
 ${edad+años} años.`);
 
         /*solucion del profe*/
+        /*explicacion con video*/
 
 let name = prompt('Introduce tu nombre');
 

@@ -1,3 +1,5 @@
+!!Todos los ejercicios los realicé antes de ver el video de la explicación del profesor, por lo tanto, me excusó por ello, aun así preferí no corregirlos, par demostrar que equivocarse es la manera de aprender, pronto mejoraré mi lógica!!
+
 1 - Solicita un nombre, la edad y muestra por consola el mensaje "hola **_ tienes _** años y el año que viene tendrás \_\_\_ años".
 Reliza el ejercicio con prompt(mensaje) y has uso de los template strings.
 
