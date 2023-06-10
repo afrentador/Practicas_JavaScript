@@ -1,7 +1,7 @@
 /* 6 - Escribe un programa que permita ir introduciendo una serie indeterminada de números mientras su suma no supere 50. Cuando esto ocurra, se debe mostrar el total acumulado y el contador de cuantos números se han introducido.
 */
 
-            /*mi solucion-5*/
+            /*mi solucion-6*/
             /* Antes de ver el vide*/
 
 // let numero = parseInt(prompt('Introduce un Numero'))
